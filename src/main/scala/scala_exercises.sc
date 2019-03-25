@@ -7,7 +7,7 @@ val Seq1 = strings.map{x:String => x.toUpperCase()}
 
 // En faire une phrase
 // >
-val Seq2 = strings.mkString(" ")
+
 val numbers:Seq[Int] = Seq(7, 9, 23, 5, 6, 1, 2, 3, 12, 23)
 
 // Ajouter des éléments à numbers
